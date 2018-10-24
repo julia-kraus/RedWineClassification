@@ -1,4 +1,4 @@
-# RedWineClassification Challenge 
+# WhiteWineClassification Challenge 
 In this Github repository you find the [white wine quality dataset](https://github.com/julia-kraus/WhiteWineQuality/blob/master/winequality-white.csv). This dataset has 11 features which are the results of chemical tests on  wine samples. The target variable is the wine quality, which is an integer between 0 (very bad) and 10 (excellent). You can find the description of the dataset in [wineQualityInfo.txt](https://github.com/julia-kraus/WhiteWineQuality/blob/master/wineQualityInfo.txt)
 
 # Task
