@@ -14,7 +14,7 @@ This task should take you about 4-6 hours. The goal is first and foremost not ha
 Preliminary analysis of the dataset for a better 
 
 ### Feature Selection
-The dataset has 11 features. This might be too much, regarding the small dataset. Also, not all of them might influence the target variable. Reduce the number of features/dimensionality of the dataset while losing as little information as possible.
+The dataset has 11 features. These might be too many, regarding the small dataset. Also, not all of them might influence the target variable. Reduce the number of features/dimensionality of the dataset while losing as little information as possible.
 
 ### Model Training
 Train one machine learning model. You can choose between a clustering, classification or regression algorithm. 
