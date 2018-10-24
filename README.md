@@ -10,16 +10,16 @@ Your task consists of the following steps:
 
 This task should take you about 4-6 hours. The goal is first and foremost not having a perfect model score, but presenting and explaining a consistent workflow. 
 
-# Data Exploration
+## Data Exploration
 Preliminary analysis of the dataset for a better 
 
-# Feature Selection
+## Feature Selection
 The dataset has 11 features. This might be too much, regarding the small dataset. Reduce the number of features/dimensionality of the dataset while losing as little information as possible.
 
-# Model Training
+## Model Training
 Train one machine learning model. You can choose between a clustering, classification or regression algorithm. 
 
-# Results
+## Results
 Present, interpret and explain the results of your data analysis.
 
 # Jupyter Notebook
