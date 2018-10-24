@@ -1,6 +1,6 @@
 # RedWineClassification Challenge
 In this Github repository you find the white wine quality dataset. This dataset has 13 features which are chemic
-You can find the description of the dataset in [wineQualityInfo.txt] The target variable is the wine quality, which is an integer between 1 and 10. 
+You can find the description of the dataset in [wineQualityInfo.txt](https://github.com/julia-kraus/WhiteWineQuality/blob/master/wineQualityInfo.txt). The target variable is the wine quality, which is an integer between 1 and 10. 
 
 # Task
 Your task consists of the following steps:
