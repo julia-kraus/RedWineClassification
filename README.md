@@ -14,7 +14,7 @@ This task should take you about 4-6 hours. The goal is first and foremost not ha
 You are free in your choice of programming language/toolkit. We recommend using the Jupyter notebook we already started for you. Even if you use another IDE, take a quick look at the notebook, as there could be useful information.
 
 # Questions
-If there are any questions left, feel free to contact me under julia-kraus@rohde-schwarz.com.
+If there are any questions left, feel free to contact me under julia.kraus@rohde-schwarz.com.
 
 Have fun with the data! Looking forward to seeing you again.
 
