@@ -8,7 +8,8 @@ Your task consists of the following steps:
 * Feature Selection
 * Train one Clustering __or__ Regression __or__ Classification model of your choice 
 * Interpret the results and explain your workflow
-This task should take you about 4-6 hours. The goal is not first and foremost having a perfect model score, but presenting and explaining a consistent workflow. 
+
+This task should take you about 4-6 hours. The goal is first and foremost not having a perfect model score, but presenting and explaining a consistent workflow. 
 
 # Jupyter Notebook
 You are free in your choice of programming language/toolkit. We recommend using the Jupyter notebook we already started for you.
