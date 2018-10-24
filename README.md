@@ -23,7 +23,7 @@ Train one machine learning model. You can choose between a clustering, classific
 Present, interpret and explain the results of your data analysis.
 
 ## Jupyter Notebook
-You are free in your choice of programming language/toolkit. We recommend using the Jupyter notebook we already started for you: `WhiteWineAnalysis.ipynb`. Even if you use another IDE, take a quick look at the notebook, as there could be useful information inside.
+You are free in your choice of programming language/toolkit. We recommend using the Jupyter notebook we already started for you: `WhiteWineAnalysis.ipynb`. 
 
 ## Questions
 If there are any questions left, feel free to contact me under julia.kraus@rohde-schwarz.com.
