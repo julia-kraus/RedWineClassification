@@ -1,5 +1,5 @@
 # WhiteWineClassification Challenge 
-In this Github repository you find the [white wine quality dataset](https://github.com/julia-kraus/WhiteWineQuality/blob/master/winequality-white.csv). This dataset has 11 features which are the results of chemical tests on  wine samples. The target variable is the wine quality, which is an integer between 0 (very bad) and 10 (excellent). You can find the description of the dataset in [wineQualityInfo.txt](https://github.com/julia-kraus/WhiteWineQuality/blob/master/wineQualityInfo.txt)
+In this Github repository you find `winequality-white.csv`. This dataset has 11 features which are the results of chemical tests on  wine samples. The target variable is the wine quality, which is an integer between 0 (very bad) and 10 (excellent). You can find the description of the dataset in `wineQualityInfo.txt`.
 
 # Task
 Your task consists of the following steps:
@@ -23,7 +23,7 @@ Train one machine learning model. You can choose between a clustering, classific
 Present, interpret and explain the results of your data analysis.
 
 # Jupyter Notebook
-You are free in your choice of programming language/toolkit. We recommend using the Jupyter notebook we already started for you. Even if you use another IDE, take a quick look at the notebook, as there could be useful information inside.
+You are free in your choice of programming language/toolkit. We recommend using the Jupyter notebook we already started for you: `WhiteWineAnalysis.ipynb`. Even if you use another IDE, take a quick look at the notebook, as there could be useful information inside.
 
 # Questions
 If there are any questions left, feel free to contact me under julia.kraus@rohde-schwarz.com.
